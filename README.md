@@ -34,9 +34,6 @@ I am a Computer Science undergraduate at **Vidyavarchaka College of Engineering*
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pprbkt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pprbkt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
