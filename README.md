@@ -30,8 +30,8 @@ I am a Computer Science undergraduate at **Vidyavarchaka College of Engineering*
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pprbkt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhanush's GitHub stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pprbkt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pprbkt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhanush's GitHub stats" height="170px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pprbkt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
 </p>
 
 <p align="center">
