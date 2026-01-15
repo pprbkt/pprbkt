@@ -1,7 +1,7 @@
 # Hi, I'm Dhanush! 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=AI+%26+Machine+Learning+Undergrad;Building+Intelligent+Chatbots;Full+Stack+Developer;Anime+Enthusiast+%26+Gamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=AI+%26+Machine+Learning+Undergrad;Building+Intelligent+Chatbots;Full+Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
