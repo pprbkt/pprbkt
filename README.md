@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a Computer Science undergraduate at **Vidyavarchaka College of Engineering**, specializing in **AI and Machine Learning**. I focus on building practical, intelligent applications—from PDF-based AI agents to automated streak trackers. When I'm not training models or solving LeetCode problems, you'll find me exploring anime worlds or gaming.
+I am a Computer Science undergraduate at **Vidyavardhaka College of Engineering**, specializing in **AI and Machine Learning**. I focus on building practical, intelligent applications—from PDF-based AI agents to automated streak trackers. When I'm not training models or solving LeetCode problems, you'll find me exploring anime worlds or gaming.
 
 - 🔭 **Current Focus:** Scaling AI applications and mastering Data Structures & Algorithms.
 - 🛠 **Latest Project:** [Streakify](https://github.com/pprbkt/Streakify) - Helping users stay consistent.
