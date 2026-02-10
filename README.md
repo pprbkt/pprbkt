@@ -5,16 +5,16 @@
 ---
 
 ### 🚀 About Me
-Computer Science undergrad at Vidyavardhaka College, specializing in AI/ML. Building practical apps like PDF agents and streak trackers. Anime enthusiast and gamer.
+Computer Science undergrad at Vidyavardhaka College, specializing in AI/ML.
 
-- 🔭 Focus: Scaling AI & DSA mastery.
-- 🛠 Latest: [RC_Plane_Engineering_Wizard](https://github.com/pprbkt/RC_Plane_Engineering_Wizard).
-- 🌱 Learning: Neural Networks & System Design.
-- ⚡ Philosophy: Clean code, real impact.
+- Focus: Scaling AI & DSA mastery.
+- Latest: [RC_Plane_Engineering_Wizard](https://github.com/pprbkt/RC_Plane_Engineering_Wizard).
+- Learning: Neural Networks & System Design.
+- Philosophy: Clean code, real impact.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=white)
@@ -28,7 +28,7 @@ Computer Science undergrad at Vidyavardhaka College, specializing in AI/ML. Buil
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pprbkt&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Stats" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pprbkt&layout=compact&theme=onedark&hide_border=true" alt="Languages" height="170" />
@@ -36,15 +36,16 @@ Computer Science undergrad at Vidyavardhaka College, specializing in AI/ML. Buil
 
 ---
 
-### 📁 Projects
-- 🤖 [AI-Discord-Chatbot](https://github.com/pprbkt/AI-Discord-Chatbot): LLM bot for Discord.
-- 📄 [PDF-Chatbot](https://github.com/pprbkt/pdf-chatbot): RAG-based document chat.
-- 🔥 [Streakify](https://github.com/pprbkt/Streakify): Consistency tracker.
+### Projects
+- [AI-Discord-Chatbot](https://github.com/pprbkt/AI-Discord-Chatbot): LLM bot for Discord.
+- [PDF-Chatbot](https://github.com/pprbkt/pdf-chatbot): RAG-based document chat.
+- [Streakify](https://github.com/pprbkt/Streakify): Consistency tracker.
 
 ---
 
-### 📫 Connect
+### Connect
 <p align="center">
+  <a href="https://pprbkt.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white&labelColor=000000" /></a>
   <a href="https://linkedin.com/in/paperbukit"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/paperbukit"><img src="https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white" /></a>
 </p>
