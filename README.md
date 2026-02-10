@@ -1,57 +1,52 @@
-# Hi, I'm Dhanush! 
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=AI+%26+Machine+Learning+Undergrad;Building+Intelligent+Chatbots;Full+Stack+Developer;" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=AI+%26+ML+Undergrad;Building+Intelligent+Chatbots;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
+Computer Science undergrad at Vidyavardhaka College, specializing in AI/ML. Building practical apps like PDF agents and streak trackers. Anime enthusiast and gamer.
 
-I am a Computer Science undergraduate at **Vidyavardhaka College of Engineering**, specializing in **AI and Machine Learning**. I focus on building practical, intelligent applications—from PDF-based AI agents to automated streak trackers. When I'm not training models or solving LeetCode problems, you'll find me exploring anime worlds or gaming.
-
-- 🔭 **Current Focus:** Scaling AI applications and mastering Data Structures & Algorithms.
-- 🛠 **Latest Project:** [Streakify](https://github.com/pprbkt/Streakify) - Helping users stay consistent.
-- 🌱 **Learning:** Advanced Neural Networks and System Design.
-- ⚡ **Philosophy:** Value clean, efficient code and real-world project impact.
+- 🔭 Focus: Scaling AI & DSA mastery.
+- 🛠 Latest: [Streakify](https://github.com/pprbkt/Streakify).
+- 🌱 Learning: Neural Networks & System Design.
+- ⚡ Philosophy: Clean code, real impact.
 
 ---
 
 ### 🛠 Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **AI/ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Web/Tools** | ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodes.dot.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-000?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📊 My GitHub Stats
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pprbkt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhanush's GitHub stats" height="170px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pprbkt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pprbkt&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pprbkt&layout=compact&theme=onedark&hide_border=true" alt="Languages" height="170" />
 </p>
-
 
 ---
 
-### 📁 Featured Projects
-
-- 🤖 **[AI-Discord-Chatbot](https://github.com/pprbkt/AI-Discord-Chatbot)**: A sophisticated bot bringing LLM capabilities to Discord communities.
-- 📄 **[PDF-Chatbot](https://github.com/pprbkt/pdf-chatbot)**: Talk to your documents using RAG (Retrieval-Augmented Generation).
-- 🔥 **[Streakify](https://github.com/pprbkt/Streakify)**: A TypeScript-based tool to maintain and track consistency.
+### 📁 Projects
+- 🤖 [AI-Discord-Chatbot](https://github.com/pprbkt/AI-Discord-Chatbot): LLM bot for Discord.
+- 📄 [PDF-Chatbot](https://github.com/pprbkt/pdf-chatbot): RAG-based document chat.
+- 🔥 [Streakify](https://github.com/pprbkt/Streakify): Consistency tracker.
 
 ---
 
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/paperbukit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paperbukit" height="30" width="40" /></a>
-<a href="https://twitter.com/paperbukit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paperbukit" height="30" width="40" /></a>
-</p>
-
+### 📫 Connect
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mshahriman/mshahriman/master/static/images/line-neon.gif" width="100%">
+  <a href="https://linkedin.com/in/paperbukit"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/paperbukit"><img src="https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white" /></a>
 </p>
+
+---
