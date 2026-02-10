@@ -8,7 +8,7 @@
 Computer Science undergrad at Vidyavardhaka College, specializing in AI/ML. Building practical apps like PDF agents and streak trackers. Anime enthusiast and gamer.
 
 - 🔭 Focus: Scaling AI & DSA mastery.
-- 🛠 Latest: [Streakify](https://github.com/pprbkt/Streakify).
+- 🛠 Latest: [RC_Plane_Engineering_Wizard](https://github.com/pprbkt/RC_Plane_Engineering_Wizard).
 - 🌱 Learning: Neural Networks & System Design.
 - ⚡ Philosophy: Clean code, real impact.
 
