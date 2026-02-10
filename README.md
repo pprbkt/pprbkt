@@ -1,53 +1,77 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=AI+%26+ML+Undergrad;Building+Intelligent+Chatbots;Full+Stack+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+```
+██████╗ ██████╗ ██████╗ ██████╗ ██╗  ██╗████████╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝╚══██╔══╝
+██████╔╝██████╔╝██████╔╝██████╔╝█████╔╝    ██║   
+██╔═══╝ ██╔═══╝ ██╔══██╗██╔══██╗██╔═██╗    ██║   
+██║     ██║     ██║  ██║██████╔╝██║  ██╗   ██║   
+╚═╝     ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+```
 
-### 🚀 About Me
-Computer Science undergrad at Vidyavardhaka College, specializing in AI/ML.
+**CS Undergrad @ VVCE** • **AI/ML Enthusiast** • **Karnataka, India**
 
-- Focus: Scaling AI & DSA mastery.
-- Latest: [RC_Plane_Engineering_Wizard](https://github.com/pprbkt/RC_Plane_Engineering_Wizard).
-- Learning: Neural Networks & System Design.
-- Philosophy: Clean code, real impact.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+</div>
 
-### Tech Stack
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-000?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=white)
+## ▌About
 
----
+Building intelligent systems and exploring the intersection of software engineering and machine learning. Currently focused on full-stack development and AI-powered applications while strengthening fundamentals in data structures and algorithms.
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pprbkt&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Stats" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pprbkt&layout=compact&theme=onedark&hide_border=true" alt="Languages" height="170" />
-</p>
+**Current Focus:** Agentic AI systems, Neural networks, System design  
+**Philosophy:** Clean code, practical solutions, continuous learning
 
----
+## ▌Tech Stack
 
-### Projects
-- [AI-Discord-Chatbot](https://github.com/pprbkt/AI-Discord-Chatbot): LLM bot for Discord.
-- [PDF-Chatbot](https://github.com/pprbkt/pdf-chatbot): RAG-based document chat.
-- [Streakify](https://github.com/pprbkt/Streakify): Consistency tracker.
+```
+Languages     Python • TypeScript • Kotlin • Java • C
+ML/AI         PyTorch • NumPy • Pandas • Scikit-learn
+Web           React • Node.js • Next.js • Express
+Tools         Git • Docker • Linux • Gradle
+```
 
----
+## ▌Featured Work
 
-### Connect
-<p align="center">
-  <a href="https://pprbkt.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white&labelColor=000000" /></a>
-  <a href="https://linkedin.com/in/paperbukit"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/paperbukit"><img src="https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white" /></a>
-</p>
+**[RC Plane Engineering Wizard](https://github.com/pprbkt/RC_Plane_Engineering_Wizard)** `Kotlin`  
+Android app using Jetpack Compose for physics-based RC aircraft design. Sequential wizard that calculates wing geometry, tail sizing, and propulsion requirements from mission constraints.
 
----
+**[AI Discord Chatbot](https://github.com/pprbkt/AI-Discord-Chatbot)** `Python`  
+LLM-powered Discord bot with context-aware conversations and multi-user session management.
+
+**[PDF Chatbot](https://github.com/pprbkt/pdf-chatbot)** `Python`  
+RAG-based document Q&A system with semantic search and vector embeddings.
+
+**[FSD-1-ABA](https://github.com/pprbkt/FSD-1-ABA)** `JavaScript`  
+Full-stack web application demonstrating REST API implementation with GET/POST operations.
+
+**[Streakify](https://github.com/pprbkt/Streakify)** `TypeScript`  
+Habit tracking and consistency monitoring tool.
+
+## ▌GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=pprbkt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pprbkt&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+
+</div>
+
+## ▌Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pprbkt.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paperbukit)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/paperbukit)
+
+</div>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+`Last updated: Feb 2026`
+
+</div>
