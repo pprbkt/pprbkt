@@ -39,11 +39,11 @@ Android app using Jetpack Compose for physics-based RC aircraft design. Sequenti
 **[AI Discord Chatbot](https://github.com/pprbkt/AI-Discord-Chatbot)** `Python`  
 LLM-powered Discord bot with context-aware conversations and multi-user session management.
 
-**[PDF Chatbot](https://github.com/pprbkt/pdf-chatbot)** `Python`  
-RAG-based document Q&A system with semantic search and vector embeddings.
+**[DreamMetrics](https://github.com/pprbkt/DreamMetrics)** `Python`  
+Sleep quality prediction ML app using regression models (Random Forest, Decision Tree). Flask backend with Firebase Auth and Firestore, provides personalized health recommendations.
 
-**[FSD-1-ABA](https://github.com/pprbkt/FSD-1-ABA)** `JavaScript`  
-Full-stack web application demonstrating REST API implementation with GET/POST operations.
+**[CheckIn](https://github.com/pprbkt/CheckIn)** `Kotlin`  
+Minimalist attendance tracker for students built with Jetpack Compose and Room database for local data persistence.
 
 **[Streakify](https://github.com/pprbkt/Streakify)** `TypeScript`  
 Habit tracking and consistency monitoring tool.
